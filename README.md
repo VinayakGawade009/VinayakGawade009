@@ -85,10 +85,6 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" height="48" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
         <br>Tailwind
       </td>
