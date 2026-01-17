@@ -27,25 +27,6 @@
  </p>
   
   <br />
-  
-  <br />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinayakGawade009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&ring_color=ff3068" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakGawade009&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
-  
-  <br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayakGawade009&theme=radical&hide_border=true&background=1a1b27&ring=ff3068&fire=ff3068" alt=" GitHub Streak" />
-  
-  <br />
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
-
 
 
  <h2 align="center">💻 Tech Stack 💻</h2>
