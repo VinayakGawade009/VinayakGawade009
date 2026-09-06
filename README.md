@@ -1,9 +1,5 @@
 <div align="center">
  
-  ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=I'm%20Vinayak%20Gawade&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60)
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Developer;Problem+Solver" alt="Typing SVG" />
-  
   <p>
     <a href="mailto:vinayakgawade009@gmail.com">
       <img src="https://img.shields.io/badge/-vinayakgawade009@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -26,52 +22,4 @@
     </a>
  </p>
   
-  <br />
-
-
- <h2 align="center">💻 Tech Stack 💻</h2>
-  
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="65" height="65" />
-        <br>Node.js
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" />
-        <br>Express
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-        <br>REST API
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
-        <br>Tailwind
-      </td>
-    </tr>
-  </table>
-
-
-  ![Footer Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 </div>
